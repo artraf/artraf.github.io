@@ -1,4 +1,4 @@
 plugins: [jekyll-paginate]
-theme: minima
+theme: tale
 paginate: 5
 paginate_path: "/page:num/"
