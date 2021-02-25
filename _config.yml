@@ -1,4 +1,4 @@
 plugins: [jekyll-paginate]
-remote_theme: inelaah/rain
+remote_theme: artraf/rain
 paginate: 5
 paginate_path: "/page:num/"
